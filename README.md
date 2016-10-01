@@ -12,6 +12,7 @@ A guide for doing linear algebra in Haskell
   (windows friendly)
 * [bed-and-breakfast](https://github.com/scravy/bed-and-breakfast)
   pure Haskell (windows friendly)
+* [accelerate-cuda](https://github.com/AccelerateHS/accelerate-cuda/)
 
 ### Interesting packages
 * [numerical](https://github.com/wellposed/numerical)
