@@ -8,6 +8,8 @@ A guide for doing linear algebra in Haskell
   Self-contained linear algebra library (Windows friendly)
 * [Vec](https://github.com/sedillard/Vec)
   Easy installation on Windows
+* [repa](https://hackage.haskell.org/package/repa)
+  High performance, regular, shape polymorphic parallel arrays. 
 * [vector](https://hackage.haskell.org/package/vector-0.11.0.0/docs/Data-Vector.html)  
   Fast native immutable/mutable vector operations
 * [matrix](https://github.com/Daniel-Diaz/matrix)
